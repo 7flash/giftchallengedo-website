@@ -1,7 +1,7 @@
 {
-  "name": "react-box",
+  "name": "giftsite",
   "version": "0.1.0",
-  "private": true,
+  "homepage": "https://7flash.github.io/giftchallengedo-website",
   "devDependencies": {
     "autoprefixer": "6.5.1",
     "babel-core": "6.17.0",
