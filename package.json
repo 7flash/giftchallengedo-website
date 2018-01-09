@@ -1,9 +1,9 @@
 {
-  "name": "grommet-second",
+  "name": "gift-site",
+  "homepage": "https://7flash.github.io/giftchallengedo-website",
   "dependencies": {
     "grommet": "https://github.com/grommet/grommet/tarball/stable",
     "grommet-addons": "https://github.com/grommet/grommet-addons/tarball/stable",
-    "json-loader": "^0.5.7",
     "prop-types": "^15.6.0",
     "react": "^16.0.0",
     "react-dom": "^16.0.0",
